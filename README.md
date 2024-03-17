@@ -1,0 +1,2 @@
+# niktalk_openai_chatGPT
+vps服务器对接openai的api服务程序
